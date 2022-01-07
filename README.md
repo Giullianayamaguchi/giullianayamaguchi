@@ -1,4 +1,4 @@
-### ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+### ![Alt Text](https://tenor.com/es/ver/pixel-city-chill-gif-22227473)
 
 <!--
 **Giullianayamaguchi/giullianayamaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
