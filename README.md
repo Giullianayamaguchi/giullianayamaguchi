@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/Giullianayamaguchi">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giullianayamaguchi&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giullianayamaguchi&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -23,11 +23,11 @@
 <br>
 <div align="center" >
    
-  <img src="https://skillicons.dev/icons?i=py,vscode,github,figma,c,git,cs" />
+  <img src="https://skillicons.dev/icons?i=py,vscode,github,git,mysql,postgres" />
   <br>
-  <img src="https://skillicons.dev/icons?i=arduino,django,bootstrap,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=arduino,django,bootstrap,html,css" />
   <br>
-  <img src="https://skillicons.dev/icons?i=figma,c,cs,php,postgres" />
+  <img src="https://skillicons.dev/icons?i=figma,c,cs,php" />
 </div>
 </div><br>
 
