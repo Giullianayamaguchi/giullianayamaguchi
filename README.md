@@ -27,7 +27,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=arduino,django,bootstrap,html,css" />
   <br>
-  <img src="https://skillicons.dev/icons?i=figma,c,cs,php" />
+  <img src="https://skillicons.dev/icons?i=figma,c,cs" />
 </div>
 </div><br>
 
